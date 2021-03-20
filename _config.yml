@@ -15,7 +15,7 @@ timezone: Asia/Shanghai
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: 长濑暗的记事本 | NagaseYami's Notebook                 # the main title
+title: 长濑暗的记事本       # the main title
 
 tagline: 好记性不如烂笔头   # it will display as the sub-title
 
@@ -38,7 +38,7 @@ social:
   email: nagaseyami@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    # - https://twitter.com/username      # change to your twitter homepage
+    - https://twitter.com/nagaseayami      # change to your twitter homepage
     - https://github.com/nagaseyami       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
