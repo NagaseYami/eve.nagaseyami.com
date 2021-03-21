@@ -3,6 +3,7 @@ title: Hello, world!
 date: 2021-03-20 23:11:00 +0900
 categories: [其他]
 tags: [chirpy, jekyll]
+pin: true
 ---
 # Hello, world!
 您好，我是长濑暗，是一个随处可见的程序员  
