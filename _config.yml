@@ -15,12 +15,11 @@ timezone: Asia/Shanghai
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: 长濑暗的记事本       # the main title
+title: Eve       # the main title
 
-tagline: 好记性不如烂笔头   # it will display as the sub-title
+tagline: 日理万机的现代生活让我无法记住所有事物，留下记录防止失忆。   # it will display as the sub-title
 
-description: >-                        # used by seo meta and the atom feed
-  日理万机的现代生活让我无法记住所有事物，留下记录总是好的。
+# description: >-                        # used by seo meta and the atom feed
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://nagaseyami.github.io'
