@@ -1,7 +1,7 @@
 ---
 title: 如何撰写Post
 date: 2021-03-20 23:11:00 +0900
-categories: [技术]
+categories: [学习]
 tags: [chirpy, jekyll]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 学习进度记录
 date: 2021-04-25 11:14:00 +0800
-categories: [学习笔记]
+categories: [学习]
 tags: []
 ---
 
@@ -32,15 +32,15 @@ tags: []
 
 ## 聊天机器人
 
-专门开了一篇[文章](https://eve.nagaseyami.com/posts/4/)介绍  
+专门开了一篇[文章](https://eve.nagaseyami.com/posts/project-asane/)介绍  
   
 弄这玩意最早是出于golang的练习以及沙雕群友老说想要一个色图机器人  
 结果做出来之后发现很多问题  
 
 1. QQ会和谐各种色图，为了反和谐要用大量的内存对图片做处理，这很消耗内存  
-1. 随机色图根本就是一个伪需求，因为随机色图并不一定能让想看色图的人满意，而想看色图的人所认为的`好看`就不是机器人能判断的范畴了。而且实际上群里发色图的人本身也把发色图当作一种社交玩法，没有必要让机器人去跟他们"抢饭碗"
+1. 随机色图根本就是一个伪需求，因为随机色图并不一定能让想看色图的人满意，而想看色图的人所认为的`好看`就不是机器人能判断的范畴了。而且实际上群里发色图的人本身也把发色图当作一种社交行为，没有必要让机器人去跟他们"抢饭碗"
 1. 最开始色图功能用了yandere的api，但是只支持英文搜索而且也不支持模糊搜索导致搜索起来很麻烦，需要先搜索tag然后搜索图片
-1. 目前我在使用的聊天/语音SNS主要有`QQ`、`Telegram`、`Discord`、`开黑啦`，说实话有点想弄成全平台，但是这很花时间  
+1. 目前我在使用的聊天/语音SNS主要有`QQ`、`Telegram`、`Discord`、`开黑啦`，说实话有点想弄成全平台，但是这很花时间，先从QQ开始  
 
 ## 硬件相关
 
@@ -51,3 +51,11 @@ tags: []
 ### NAS
 
 目前因为硬盘价格太高暂时放置
+
+### Unity Il2Cpp 逆向工程相关
+
+- [原神的global-metadata文件保护分析记录](https://bbs.pediy.com/thread-265774.htm)
+- [一个Unity游戏保护方案的分析和还原符号信息，偷学对global-metadata保护的思路](https://bbs.pediy.com/thread-260071.htm)
+- [djkaty/Il2CppInspector](https://github.com/djkaty/Il2CppInspector)
+- [Perfare/Il2CppDumper](https://github.com/Perfare/Il2CppDumper)
+- [Il2Cpp Tutorials and Guides](https://github.com/djkaty/Il2CppInspector#tutorials-and-guides)

@@ -1,7 +1,7 @@
 ---
-title: 聊天机器人
+title: 聊天机器人-橘麻沙音
 date: 2021-04-25 13:35:00 +0800
-categories: [个人项目]
+categories: [项目]
 tags: [golang,cqhttp,onebot,discord]
 ---
 
