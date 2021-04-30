@@ -16,28 +16,32 @@ tags: [golang,cqhttp,onebot,discord]
 ## 对应的平台
 
 - QQ
-  - [go-cqhttp cqhttp的golang实现](https://github.com/Mrs4s/go-cqhttp)
-  - [OneBot QQ聊天机器人接口标准](https://onebot.page.moe/)
-- Discord（开发中）
-  - [Discord Developer Portal](https://discord.com/developers/docs/intro)
+- Discord（计划）
 
 ## 功能
 
+- 复读
 - NASA
   - Astronomy Picture of the Day（每日天文学图片）
     - [API Doc](https://api.nasa.gov/)
-- 搜索图片出处（开发中）
+- 搜索图片出处（计划）
   - SauceNAO
     - [API Doc(需登录)](https://saucenao.com/user.php?page=search-api)
   - trace.moe
     - [API Doc](https://soruly.github.io/trace.moe/#/)
 
-## 参考
+## 参考资料
 
 参考了下列项目的代码/设计思路，非常感谢！
 
 - [Koishi](https://koishi.js.org/)
 - [cq-picsearcher-bot](https://github.com/Tsuk1ko/cq-picsearcher-bot)
+- [go-cqhttp cqhttp的golang实现](https://github.com/Mrs4s/go-cqhttp)
+
+其他资料  
+
+- [OneBot QQ聊天机器人接口标准](https://onebot.page.moe/)
+- [Discord Developer Portal](https://discord.com/developers/docs/intro)
 
 ## 许可证
 
