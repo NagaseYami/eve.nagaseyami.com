@@ -3,7 +3,7 @@ title: About
 icon: fas fa-info
 order: 4
 ---
-长濑暗，一个随处可见的程序员。
+长濑暗，一个随处可见的程序员
 
 ## 联系方式
 
