@@ -14,10 +14,8 @@ tags: [golang,telegram]
 
 ## 功能
 
-- 搜索图片出处（计划）
+- 搜索图片出处
   - SauceNAO
-  - trace.moe
-    - [API Doc](https://soruly.github.io/trace.moe/#/)
 
 ## 今后打算增加的功能
 
