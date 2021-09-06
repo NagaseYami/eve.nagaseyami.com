@@ -1,0 +1,10 @@
+version: "3.7"
+services: 
+    serve:
+        image: jekyll/jekyll
+        container_name: jekyll
+        command: jekyll serve
+        ports:
+            - 80:4000
+        volumes:
+            - $PWD:/srv/jekyll
